@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Mi se jade banana
+=======
+Mi se jade jagoda
+>>>>>>> 5f0356cc25eb61a6f43ff993e9f27b21ccbfafb7
